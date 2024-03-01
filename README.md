@@ -1,4 +1,4 @@
-### I'm an Computer Scientist Student!
+### Hi there, I'm Luiz Felipe!
 - 🎓 Currently studying ADS at FATEC!
 - 🔧 Currently I'm a web developer at LinkedRH!
 

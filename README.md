@@ -5,7 +5,7 @@
 ### 💻 I’m currently working with:
 &emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-[![Cypress.io](https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg)
+![Cypress.io](https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg)
 
 
 ### :busts_in_silhouette: Social Media
